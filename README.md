@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/84a0b189-a24e-41b1-915d-ca4f763e7e3f
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Assets Used](#assets-used)
 * [Screenshots](#screenshots)
 * [Build](#usage)
 <!-- * [License](#license) -->
@@ -23,6 +24,9 @@ https://github.com/user-attachments/assets/84a0b189-a24e-41b1-915d-ca4f763e7e3f
 - Blueprints
 - C++
 
+## Assets Used
+- Unreal Learning Kit: https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit
+- Stylized Character Kit: https://www.unrealengine.com/marketplace/en-US/product/stylized-male-character-kit-casual
 
 ## Screenshots
 <img width="1052" alt="Screenshot 2024-08-30 at 12 03 47 AM" src="https://github.com/user-attachments/assets/65919b14-4f95-4edc-abbb-420bbd2ca51a">
